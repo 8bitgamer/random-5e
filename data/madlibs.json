@@ -1,0 +1,14 @@
+{
+    "familymember": [
+        "Brother", "Sister", "Father", "Mother", "Spouse", "Aunt", "Uncle"
+    ],
+    "randomPartyMember": [
+        "Job", "Lissandra", "Bort", "Ugnug"
+    ],
+    "gender": [
+        "male", "female"
+    ],
+    "noble": [
+        "Mayor", "King", "Duke", "Count", "Baron", "Queen", "Prince", "Princess", "Countess", "Duchess", "Baroness", "Marhsall", "Bishop", "Priest"
+    ]
+}
